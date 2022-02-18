@@ -1,0 +1,1 @@
+^([0-9][0-9]?)\D.*(janvier|février|mars|avril|octobre|novembre|décembre).+?de.+?([0-9][0-9]?).+?à.+?([0-9][0-9]?)
