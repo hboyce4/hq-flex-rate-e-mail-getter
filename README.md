@@ -1,4 +1,4 @@
-#hq-flex-rate-e-mail-getter
+# hq-flex-rate-e-mail-getter
 
 Program to automatically fetch e-mails from Hydro-Québec about peak demand periods, for flexible rates.
 
